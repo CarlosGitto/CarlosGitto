@@ -1,41 +1,38 @@
-<h1 align="center">Hi 👋, I'm Carlos Gitto</h1>
-<h3 align="center">This is a sub</h3>
+# 👋 Hi there! I'm Carlos
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosgitto&label=Profile%20views&color=0e75b6&style=flat" alt="carlosgitto" /> </p>
+I am a **dynamic and adaptable Software Developer** with 3+ years of experience in building and deploying full-stack applications, now diving deep into the world of data as a **Data Developer**. My journey in tech is fueled by an insatiable curiosity and a drive to solve complex problems through innovative solutions.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlosgitto" alt="carlosgitto" /></a> </p>
+## 🚀 What I Do
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+I specialize in crafting robust systems across both **frontend** and **backend** landscapes. From deciphering ambiguous requirements to delivering scalable features, I bring a detail-oriented approach to every project. Here’s a glimpse of what I’ve been up to:
 
-- 🔭 I’m currently working on [name1](link1)
+### 🗄️ Backend
+- **Business Logic & Analytics:** Designing complex business logic and implementing statistical models to drive insights.
+- **SQL Databases:** Crafting and optimizing schemas, implementing APIs, and building ETL processes tailored for performance and scalability.
+- **Security & DevOps:** Containerizing apps with Docker, setting up CI/CD pipelines with GitHub Actions, and managing secure, scalable server environments.
 
-- 🌱 I’m currently learning **form1**
+### 💻 Frontend
+- **Responsive Interfaces:** Building user-friendly, responsive interfaces with **Vue.js**, closely collaborating with designers and product managers.
 
-- 👯 I’m looking to collaborate on [name2](link2)
+### ☁️ Cloud Services
+- Leveraging **Google Cloud Platform (GCP)** for data analytics, content delivery, and infrastructure management, including **BigQuery**, **CDN**, **IAM**, and **VMs**.
 
-- 🤝 I’m looking for help with [name3](link3)
+## 🎯 What I'm Passionate About
 
-- 👨‍💻 All of my projects are available at [portfolio](portfolio)
+Currently pursuing a degree in **Systems Information Engineering**, I'm always seeking to expand my knowledge and explore new technologies. My key interests include:
 
-- 💬 Ask me about **form2**
+- **Cybersecurity:** Safeguarding systems and data.
+- **Machine Learning & Data Science:** Harnessing the power of data to create smart, predictive models.
+- **Continuous Learning:** Whether through online courses, lectures, or hands-on projects, I am always up for a new challenge.
 
-- 📫 How to reach me **mail**
+## 💼 Current Projects
 
-- 📄 Know about my experiences [resume](resume)
+I’m working on several exciting projects that span full-stack development, data engineering, and cloud computing. Check out my repositories to see some of the latest tools and technologies I’m exploring.
 
-- ⚡ Fun fact **fun**
+## 🎮 Outside of Work
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/carlos gitto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos gitto" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/carlos gitto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="carlos gitto" height="30" width="40" /></a>
-</p>
+When I’m not coding, you’ll find me exploring the world of **video games**, enjoying **mountain biking**, or practicing **calisthenics**. I’m also a huge fan of **board games** and spending quality time with my dog, **Zeta**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosgitto&show_icons=true&locale=en&layout=compact" alt="carlosgitto" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosgitto&show_icons=true&locale=en" alt="carlosgitto" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosgitto&" alt="carlosgitto" /></p>
+💬 **Let’s Connect:** I’m always open to connecting with like-minded professionals. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com) or explore my work here on GitHub. Let’s build something amazing together!
